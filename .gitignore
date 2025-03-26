@@ -1,14 +1,5 @@
-# Ignore Python cache
-__pycache__/
-*.pyc
-*.pyo
 
-# Ignore node_modules for a Node.js project
-node_modules/
+hellooo
+this is just a intro 
 
-# Ignore environment files
-.env
-
-# Ignore log files
-*.log
 
